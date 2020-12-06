@@ -1,10 +1,12 @@
 
 # Programming-for-Data-Analysis-Project
+
 Creating a data set of your choosing of a real-life phenomenon
 
 By Dmitrijs Gavilovskis
 
 Main Objective
+
 
 Create a data set by simulating a real-world phenomenon of your choosing
 Using numpy.random package complete following tasks:
